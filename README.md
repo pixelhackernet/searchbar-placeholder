@@ -12,6 +12,7 @@ Welcome to the repository for pixelhacker.net's searchbar placeholders! These pl
    - Placeholders can only consist of alphanumeric characters (a-z, A-Z, 0-9).
 
 3. **Formatting:**
+   - Placeholders must be in the context of something to search (eg. "Pixelating viruses...", if its funny enough this rule will not apply)
    - Placeholders must end with "…".
 
 4. **Content Restrictions:**
